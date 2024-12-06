@@ -1,0 +1,12 @@
+{
+  "name": "2048-game",
+  "version": "1.0.0",
+  "description": "A simple 2048 game implementation",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
